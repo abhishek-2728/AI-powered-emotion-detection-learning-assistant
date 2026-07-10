@@ -1,0 +1,10 @@
+timestamp,field,text,emotion,confidence,response,model_type
+2026-07-10T14:21:39.943944,Computer Science,I am very happy today,Curious,0.4,"Love that curiosity — that's exactly the mindset that makes tricky topics stick. Following that 'what if' thread is often the fastest way to deep understanding.
+
+**Suggested next step:** Follow up your question with one more 'why' or 'what if' before moving on.",BiLSTM/Fallback
+2026-07-10T14:22:59.008104,Computer Science,"I am happy because I solved my assignment
+I am stressed about exams
+I feel angry and frustrated
+I am excited to learn AI",Frustrated,0.88,"That frustration is valid — this is genuinely hard. Take a short breather if you need it; struggling with a concept is often the step right before it clicks.
+
+**Suggested next step:** Take a 5-minute break, then retry with just the first small step of the problem.",BiLSTM/Fallback

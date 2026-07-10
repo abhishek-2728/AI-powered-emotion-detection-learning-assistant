@@ -1,0 +1,30 @@
+text,emotion
+"I don't understand recursion at all, this makes no sense to me",Confused
+"Why does this base case keep breaking, I'm so lost",Confused
+"I have no idea what this pointer is even doing",Confused
+"This function signature is confusing me completely",Confused
+"I'm not sure how the loop invariant even works here",Confused
+
+"This lecture is so boring, nothing here is engaging",Bored
+"I'm bored, we've covered this same topic five times already",Bored
+"This chapter is dull and repetitive, I can't focus",Bored
+"Nothing about this problem set interests me at all",Bored
+"I keep zoning out, this is just tedious",Bored
+
+"I finally get it, this makes total sense now",Confident
+"I feel confident about solving this problem on my own",Confident
+"This is easy, I've got this down perfectly",Confident
+"I understand the concept clearly and I'm sure about my answer",Confident
+"No problem, I can explain this to someone else now",Confident
+
+"I wonder what happens if we change this variable",Curious
+"How does this algorithm actually behave with larger inputs?",Curious
+"I'm curious why this formula works the way it does",Curious
+"What if we tried a completely different approach here?",Curious
+"I want to know more about how this theorem was proved",Curious
+
+"I'm so frustrated, I've tried this five times and it still fails",Frustrated
+"This is so hard, I want to give up on this assignment",Frustrated
+"I'm fed up with debugging this same error over and over",Frustrated
+"Why is this so difficult, nothing I try works",Frustrated
+"I'm annoyed that the instructions don't match what's actually happening",Frustrated
